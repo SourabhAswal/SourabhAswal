@@ -8,7 +8,10 @@ I am @Sourabh Aswal , a Devops Engineer from 🇮🇳   passionate about deplopi
   
  </p>
  
- <img src="![dockergif](https://user-images.githubusercontent.com/40938630/235917546-0fa72e25-1b9b-4aff-a436-8604bc8531f9.gif)" alt="Girl in a jacket" width="500" height="600">
+  <div style='width: 100px; height: 100px;'>
+          This is a test. This is a test. 
+  ![dockergif](https://user-images.githubusercontent.com/40938630/235917546-0fa72e25-1b9b-4aff-a436-8604bc8531f9.gif)
+      </div>
 
 
 
