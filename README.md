@@ -2,13 +2,9 @@ I am @Sourabh Aswal , a Devops Engineer from 🇮🇳   passionate about deplopi
 
 
 
-<p height="40 " width="40" >
 
-![dockergif](https://user-images.githubusercontent.com/40938630/235917546-0fa72e25-1b9b-4aff-a436-8604bc8531f9.gif)
-  
- </p>
  
-  <div style='width: 100px; height: 100px;'>
+  <div style='width: 10px; height: 10px;'>
          
   ![dockergif](https://user-images.githubusercontent.com/40938630/235917546-0fa72e25-1b9b-4aff-a436-8604bc8531f9.gif)
       </div>
