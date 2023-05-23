@@ -2,7 +2,8 @@ I am @Sourabh Aswal , a Devops Engineer from 🇮🇳   passionate about deplopi
 
 <h4 align="left">CI-CD Tools:</h3>
 
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40938630/235917546-0fa72e25-1b9b-4aff-a436-8604bc8531f9.gif" alt="docker" width="90" height="90"/> </a> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681636695728/5dbb2944-ae1f-4111-affa-219ffd601af4.gif" alt="jenkins" width="90" height="90"/> </a> 
+<p align="left">
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://images.pling.com/img/00/00/55/86/05/1487642/17aece372bdbe83442398fa4ee74f52fca9b2a3bbe38e4dd4982b9cadbc8c30909fd.gif" alt="linux" width="90" height="90"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40938630/235917546-0fa72e25-1b9b-4aff-a436-8604bc8531f9.gif" alt="docker" width="90" height="90"/> </a> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681636695728/5dbb2944-ae1f-4111-affa-219ffd601af4.gif" alt="jenkins" width="90" height="90"/> </a> 
  </p>
 
 
