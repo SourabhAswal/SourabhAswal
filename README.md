@@ -11,7 +11,7 @@ I am @Sourabh Aswal , a Devops Engineer from 🇮🇳   passionate about deplopi
 
 <h4 align="left">Cloud Server :</h3>
 <p align="left">
- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/GO7C6FD0y3YAAAAC/aws.gif" alt="aws" width="90" height="90"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*FkT5a73LOY2tOHJSCwrjNQ.gif" alt="gcp" width="90" height="90"/> </a> 
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/GO7C6FD0y3YAAAAC/aws.gif" alt="aws" width="90" height="90"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/57858/screenshots/2292590/jeshie_dribbble_cloud.gif" alt="gcp" width="90" height="90"/> </a> 
  
  </p>
 
