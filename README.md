@@ -23,7 +23,13 @@
  <h4 align="left">Database :</h3>
 <p align="left">
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://kondado.io/assets/images/source-mysql-(e-mariadb).gif" alt="mysql" width="120" height="80"/> </a> 
+ </p>
  
+ 
+ 
+ <h4 align="left">Monitoring :</h3>
+<p align="left">
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://static.wixstatic.com/media/559985_dc332f3e42ad4a7d8358e05ecbf7b66c~mv2.gif" alt="monitoring" width="120" height="80"/> </a> 
  </p>
  
  <h4 align="left">How to reach me ? :</h3>
