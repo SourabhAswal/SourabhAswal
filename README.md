@@ -7,6 +7,15 @@ I am @Sourabh Aswal , a Devops Engineer from 🇮🇳   passionate about deplopi
  </p>
 
 
+
+
+<h3 align="left">CLOUD</h3>
+<p align="left">
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/GO7C6FD0y3YAAAAC/aws.gif" alt="aws" width="90" height="90"/> </a> 
+ 
+ </p>
+
+
   
 
 
